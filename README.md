@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-saxena-india&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-saxena-india" /> </p>
 
-- 🔭 I’m currently working on [Whatsapp automator](https://github.com/users/Arnav-Saxena-India/projects/1)
+- 🔭 I’m currently working on [CP-COACH](https://github.com/Arnav-Saxena-India/CP-COACH)
 
 - 🌱 I’m currently learning **C++**
 
